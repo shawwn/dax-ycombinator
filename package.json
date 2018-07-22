@@ -1,0 +1,11 @@
+{
+  "name": "dax-ycombinator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shawn Presser <shawnpresser@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ax": "^0.2.2",
+    "require-dax": "^0.0.4"
+  }
+}
